@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button.xml",
+        "source": "/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/src/main/res/drawable-hdpi/button.xml"
+    },
+    {
+        "merged": "/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unpressed.xml",
+        "source": "/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/src/main/res/drawable-hdpi/unpressed.xml"
+    },
+    {
+        "merged": "/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pressed.xml",
+        "source": "/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/src/main/res/drawable-hdpi/pressed.xml"
+    }
+]

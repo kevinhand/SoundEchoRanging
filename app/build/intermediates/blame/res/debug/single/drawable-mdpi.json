@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/build/intermediates/res/merged/debug/drawable-mdpi/button_image.png",
+        "source": "/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/src/main/res/drawable-mdpi/button_image.png"
+    },
+    {
+        "merged": "/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/build/intermediates/res/merged/debug/drawable-mdpi/play.png",
+        "source": "/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/src/main/res/drawable-mdpi/play.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Fri Dec 30 19:49:42 SGT 2016
+base.0=/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_800921f22ab52594c43adfd1a734237e733dd716
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4640f3bf36b07969569b8edbf683be63fc0afd93/classes.dex
+base.1=/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4640f3bf36b07969569b8edbf683be63fc0afd93
+file.0=/home/honghande/Dropbox/Useful Project/SoundEchoRanging1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_800921f22ab52594c43adfd1a734237e733dd716/classes.dex
